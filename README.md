@@ -24,19 +24,17 @@ This project investigates:
 
 ## 📂 Repository Structure
 
-
-multimodal-parkinsons-ai/
-├── notebooks/
-│ ├── 01_voice_pipeline.ipynb # Speech-based PD detection
-│ ├── 02_facial_pipeline.ipynb # Face-based PD detection
-│ ├── 03_hand_tapping_pipeline.ipynb # Motor biomarker extraction
-│ └── 04_multimodal_fusion.ipynb # Fusion & modality weight analysis
-│
-├── models/ # Trained neural networks
-├── features/ # Extracted embeddings & PD scores
-├── README.md
-├── LICENSE
-└── .gitignore
+multimodal-parkinsons-ai
+notebooks/
+  01_voice_pipeline.ipynb
+  02_facial_pipeline.ipynb
+  03_hand_tapping_pipeline.ipynb
+  04_multimodal_fusion.ipynb
+models/
+features/
+README.md
+LICENSE
+.gitignore
 
 
 ---
