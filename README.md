@@ -1,4 +1,4 @@
-# multimodal-parkinsons-ai
+# Multimodal-parkinsons-ai
 # Multimodal Parkinson’s Disease Detection using Voice, Face & Hand Biomarkers
 
 This repository presents a multimodal AI system for detecting Parkinson’s disease (PD) by integrating three independent physiological biomarkers:
@@ -23,6 +23,8 @@ This project investigates:
 ---
 
 ## 📂 Repository Structure
+
+
 multimodal-parkinsons-ai/
 ├── notebooks/
 │ ├── 01_voice_pipeline.ipynb # Speech-based PD detection
