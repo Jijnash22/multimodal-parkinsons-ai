@@ -122,6 +122,13 @@ All notebooks are fully executable via the **Open in Colab** button on GitHub.
 Trained models and extracted features are provided.
 
 ---
+## 🔁 Reproducibility Note
+
+Due to privacy, storage, and ethical constraints, trained models and extracted
+feature files are not publicly shared.
+
+All experiments can be reproduced using the provided notebooks and methodology.
+---
 
 ## 👤 Author
 
